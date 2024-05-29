@@ -3,7 +3,7 @@
 # Table of contact
 
 - [Abstract](#Abstract)
-- [Introduction](#-Introduction)
+- [Introduction](#Introduction)
 - [Data Description And Structure](#-Data-Description-And-Structure)
 - [Methodology](#-Methodology)
 - [Discussion and Results](#-Discussion-and-Results)
@@ -14,7 +14,7 @@
 
 This paper provides a detailed examination of a system created to help individuals learn sign language using alphabet letters via a real-time camera feed. The goal of the project is to create a machine learning model that can accurately identify and understand sign language letters in real-time, improving accessibility and communication for deaf and hard-of-hearing individuals. This document covers the project's introduction, data description and structure, methodology, discussion, and results, and concludes with future work suggestions.
 
-## Introduction
+## <a name="Introduction"></a> Introduction
 
 "Hand Talk " is a vital mode of communication for the deaf and hard-of-hearing community. Learning sign language, particularly its letters, can be challenging for many people. The development of a real-time sign language recognition system using live camera feeds can significantly aid in this learning process. This project aims to create a machine learning model capable of recognizing sign language letters through a live camera.
 
