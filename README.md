@@ -66,7 +66,7 @@ The methodology for this project involves several key steps to develop
    to their ability to automatically detect spatial hierarchies and features within images
    through convolutional layers.
 
-    Challenges with CNN:
+    Challenges with CNN
 
 Despite the theoretical advantages of CNNs for image recognition tasks, we encountered several challenges during the implementation phase:
 
@@ -78,7 +78,7 @@ Despite the theoretical advantages of CNNs for image recognition tasks, we encou
 
 
 
-      Implementation of Random Forest:
+      Implementation of Random Forest
 
 In our project, we utilized the Random Forest model to train a system capable of recognizing and translating the 26 letters of the alphabet from hand movement images. This endeavor aims to convert sign language gestures into corresponding letters, thereby enhancing communication for the hearing impaired. Sign language relies heavily on the intricate movements of the hands, and accurately interpreting these movements is crucial for effective translation.
 
@@ -129,5 +129,7 @@ Evaluation
 	Multilingual Support: Expanding the system to support multiple sign languages, allowing users from different linguistic backgrounds to benefit from the technology. 
 o	Additional Features: Enhancing the model to recognize not only letters but also words and phrases, and   
 o	incorporating gesture recognition for a more comprehensive sign language learning experience.
+
+
 
 
