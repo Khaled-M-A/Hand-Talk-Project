@@ -129,6 +129,9 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  o	Additional Features: Enhancing the model to recognize not only letters but also words and phrases, and   
  o	incorporating gesture recognition for a more comprehensive sign language learning experience.
 
+ # Demo
+ To see our Demo Click here https://2u.pw/Click here
+
 
 
 
