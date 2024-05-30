@@ -33,7 +33,7 @@ The dataset for this project includes pictures of sign language letters, capture
 Pictures: High-quality photographs of individual letters signed by various individuals.
 Labels: Each image is labeled with the corresponding signed letter.
 
-Summary of the Dataset:
+## Summary of the Dataset
 
 Training Process and Initial Model Approach
 The training phase involved utilizing the diverse and rich dataset we had meticulously curated. This dataset comprised numerous images, each showcasing a variety of hand shapes, sizes, and backgrounds. By incorporating these varied elements, we ensured that the model would be exposed to a wide range of scenarios, enhancing its robustness and generalization capabilities.
