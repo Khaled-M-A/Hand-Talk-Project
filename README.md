@@ -55,13 +55,13 @@ The initial training with a random model involved exposing the model to a broad 
 The methodology for this project involves several key steps to develop                        
       a high-performing model:
 
-   # # Data Preprocessing
+   # Data Preprocessing
 
 •	Normalization: Converting pixel values to a common scale, typically 0 to 1, to facilitate faster and more efficient training.
 •	Resizing: Standardizing image dimensions to a fixed size to ensure consistency across the dataset.
 •	Augmentation: Applying transformations such as rotations, flips, and shifts to artificially increase the size of the training set and improve model robustness.
 
-  ##Model Selection
+  # Model Selection
  
    In our project, we initially considered using a Convolutional Neural Network (CNN) for the
    task of recognizing and translating 26 letters based on hand movement images.
@@ -69,7 +69,7 @@ The methodology for this project involves several key steps to develop
    to their ability to automatically detect spatial hierarchies and features within images
    through convolutional layers.
 
-  ##Challenges with CNN
+  # Challenges with CNN
 
 Despite the theoretical advantages of CNNs for image recognition tasks, we encountered several challenges during the implementation phase:
 
@@ -80,7 +80,7 @@ Despite the theoretical advantages of CNNs for image recognition tasks, we encou
 
 
 
-##Implementation of Random Forest
+# Implementation of Random Forest
 
 In our project, we utilized the Random Forest model to train a system capable of recognizing and translating the 26 letters of the alphabet from hand movement images. This endeavor aims to convert sign language gestures into corresponding letters, thereby enhancing communication for the hearing impaired. Sign language relies heavily on the intricate movements of the hands, and accurately interpreting these movements is crucial for effective translation.
 
@@ -95,18 +95,14 @@ Advantages of Random Forest:
 After a thorough evaluation, the Random Forest model was selected for its superior 
 Performance, robustness, and efficiency in recognizing and translating hand gestures into corresponding letters.
 
-    Training
+ # Training
 
 •	Loss Function: Using categorical cross-entropy for image classification and sequence prediction.
 •	Optimizer: Employing an optimizer like Adam or SGD (Stochastic Gradient Descent) to update the model weights based on the loss.
 •	Regularization: Implementing techniques such as dropout and L2 regularization to prevent overfitting and improve generalization.
 
-Evaluation
 
-•	Metrics: Evaluating the model using metrics like precision, recall, F1-score, and overall recognition accuracy to assess its performance.
-•	Validation Set: Using a separate validation set to monitor the model's performance during training and prevent overfitting.
-
- ## Discussion and Results 
+ # Discussion and Results 
 
   
 •	Model Performance: The Random Forest model demonstrated strong performance in recognizing and translating hand gestures into corresponding letters of the alphabet. The model's robustness and accuracy indicate its effectiveness in handling the natural variability in human hand movements.
