@@ -130,7 +130,8 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  o	incorporating gesture recognition for a more comprehensive sign language learning experience.
 
  # Demo
- To see our Demo Click here https://2u.pw/cqmsqU6q
+ To see our Demo Click here
+ 
 
 
 
