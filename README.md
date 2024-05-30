@@ -55,7 +55,7 @@ The initial training with a random model involved exposing the model to a broad 
 The methodology for this project involves several key steps to develop                        
       a high-performing model:
 
-      Data Preprocessing
+   Data Preprocessing
 
 •	Normalization: Converting pixel values to a common scale, typically 0 to 1, to facilitate faster and more efficient training.
 •	Resizing: Standardizing image dimensions to a fixed size to ensure consistency across the dataset.
