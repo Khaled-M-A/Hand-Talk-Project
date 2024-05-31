@@ -155,7 +155,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  
 
  # presentation
- To see our presentation Click Here https://2h.ae/MtKM
+ [View our Presentation](https://2h.ae/MtKM)
 
 
 
