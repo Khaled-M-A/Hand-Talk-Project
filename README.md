@@ -152,7 +152,9 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
 
  ## To Run Our VsCode Notebook
  First, open the Hand Talk.ipynb file.
+ 
  Then, click on "Open in VsCode"
+ 
  ## To run our demo 
        streamlit run app.py
    
