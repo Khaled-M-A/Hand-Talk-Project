@@ -35,19 +35,19 @@ Labels: Each image is labeled with the corresponding signed letter.
 
 # Summary of the Dataset
 
-Training Process and Initial Model Approach
+## Training Process and Initial Model Approach
 The training phase involved utilizing the diverse and rich dataset we had meticulously curated. This dataset comprised numerous images, each showcasing a variety of hand shapes, sizes, and backgrounds. By incorporating these varied elements, we ensured that the model would be exposed to a wide range of scenarios, enhancing its robustness and generalization capabilities.
 
-Random Model Approach
+## Random Model Approach
 To kickstart the training process, we employed a random model approach. This method served as an essential first step for several reasons:
 
-Baseline Establishment:
+## Baseline Establishment
 The random model approach allowed us to establish a baseline performance for recognizing all 26 letters of the alphabet. This baseline is crucial as it provides a reference point against which future improvements can be measured.
 Handling Variability:
 
 Given the diversity in our dataset, including different hand shapes, sizes, and backgrounds, a random model approach helped us understand the variability in the data. It offered insights into which variations posed more challenges for recognition and required more focused attention.
 
-Initial Training:
+## Initial Training
 The initial training with a random model involved exposing the model to a broad array of samples without any pre-existing biases or learned patterns. This exposure helped the model start to identify and learn fundamental patterns and features necessary for distinguishing between the different letters under various conditions.
 
 # Methodology
@@ -100,9 +100,6 @@ Advantages of Random Forest:
     
 After a thorough evaluation, the Random Forest model was selected for its superior 
 Performance, robustness, and efficiency in recognizing and translating hand gestures into corresponding letters
-
-.![Screenshot 2024-05-31 081330](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/3ea07b92-ae85-43f4-86a3-5ea328f282d5)
-
 
 
  # Discussion and Results 
@@ -157,6 +154,8 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  
  ## To run our demo 
        streamlit run app.py
+
+   .![Screenshot 2024-05-31 081330](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/3ea07b92-ae85-43f4-86a3-5ea328f282d5)
    
  ## Demo
  To see our Demo [Click Here](https://2h.ae/ygrj)
