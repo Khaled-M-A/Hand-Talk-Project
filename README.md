@@ -88,9 +88,13 @@ To achieve this, we captured detailed images of hand gestures, each representing
 
 Advantages of Random Forest:
 
-•	Robustness: The Random Forest model's ensemble approach helps in reducing the variance and preventing overfitting, which were significant issues with the CNN model.
-•	Accuracy: Through aggregating the predictions of multiple decision trees, the Random Forest model achieved higher accuracy in recognizing hand gestures compared to the CNN. In fact, the model achieved an impressive 99% accuracy.
-•	Efficiency: The training process for the Random Forest model was less resource-intensive and faster, facilitating quicker iterations and adjustments.
+ •	Robustness: The Random Forest model's ensemble approach helps in reducing the variance and preventing overfitting, which were significant issues with the CNN model.
+
+
+ •	Accuracy: Through aggregating the predictions of multiple decision trees, the Random Forest model achieved higher accuracy in recognizing hand gestures compared to the CNN. In fact, the model achieved an impressive 99% accuracy.
+
+
+ •	Efficiency: The training process for the Random Forest model was less resource-intensive and faster, facilitating quicker iterations and adjustments.
     
 After a thorough evaluation, the Random Forest model was selected for its superior 
 Performance, robustness, and efficiency in recognizing and translating hand gestures into corresponding letters
