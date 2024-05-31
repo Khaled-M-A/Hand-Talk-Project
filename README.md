@@ -128,8 +128,19 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
 
  o	Additional Features: Enhancing the model to recognize not only letters but also words and phrases, and   
  o	incorporating gesture recognition for a more comprehensive sign language learning experience.
-
- # Demo
+  # Tools We Use
+   ## Libraries 
+   Numpy
+   OpenCv
+   Scikit Learn
+   MediaPipe
+   ## Work Space 
+   GitHub
+   VScode
+   Streamlit
+   Colab
+   
+ ## Demo
  To see our Demo Click Here https://2h.ae/ygrj
 
  # presentation
