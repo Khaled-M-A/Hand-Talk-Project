@@ -1,4 +1,4 @@
-# Hand-Talk-Project
+ # Hand-Talk-Project
 
 # Table of contact
 
@@ -152,7 +152,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
    
  ## Demo
  To see our Demo Click Here https://2h.ae/ygrj 
- <a href="https://2h.ae/ygrj">Click Here</a>
+ <a href="https://2h.ae/ygrj"> Click Here</a>
 
  # presentation
  To see our presentation Click Here https://2h.ae/MtKM
