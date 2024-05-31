@@ -131,14 +131,21 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
   # Tools We Use
    ## Libraries 
   Numpy
+   
    OpenCv
+ 
   Scikit Learn
+  
    MediaPipe
    ## Work Space 
+  
    GitHub
-    VScode
-    Streamlit
-    Colab
+   
+  VScode
+  
+  Streamlit
+   
+  Colab
    
  ## Demo
  To see our Demo Click Here https://2h.ae/ygrj
