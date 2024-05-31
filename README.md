@@ -130,12 +130,12 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  o	incorporating gesture recognition for a more comprehensive sign language learning experience.
   # Tools We Use
    ## Libraries 
-    Numpy
-    OpenCv
-    Scikit Learn
-    MediaPipe
+  Numpy
+   OpenCv
+  Scikit Learn
+   MediaPipe
    ## Work Space 
-    GitHub
+   GitHub
     VScode
     Streamlit
     Colab
