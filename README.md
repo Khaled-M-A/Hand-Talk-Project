@@ -2,18 +2,18 @@
 
 # Table of contact
 
-- [🧩Abstract](#Abstract)
-- [📌Introduction](#Introduction)
-- [💡Data Description And Structure](#-Data-Description-And-Structure)
-- [✏️Summary of the Dataset](#-Summary-of-the-Dataset)
-- [🎯Methodology](#-Methodology)
-- [✔️Discussion and Results](#-Discussion-and-Results)
-- [⚙️Conclusion and Future Work](#-Conclusion-and-Future-Work)
-- [🤖Demo](#Demo)
+- [🧩Abstract](#abstract)
+- [📌Introduction](#introduction)
+- [💡Data Description And Structure](#data-description-and-structure)
+- [✏️Summary of the Dataset](#summary-of-the-dataset)
+- [🎯Methodology](#methodology)
+- [✔️Discussion and Results](#discussion-and-results)
+- [⚙️Conclusion and Future Work](#conclusion-and-future-work)
+- [🤖Demo](#demo)
 - [🔎presentation](#presentation)
 
   
-# <a name="Abstract"></a> Abstract
+# Abstract
 
 This paper provides a detailed examination of a system created to help individuals learn sign language using alphabet letters via a real-time camera feed. The goal of the project is to create a machine learning model that can accurately identify and understand sign language letters in real-time, improving accessibility and communication for deaf and hard-of-hearing individuals. This document covers the project's introduction, data description and structure, methodology, discussion, and results, and concludes with future work suggestions.
 
