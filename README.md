@@ -152,7 +152,9 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
    
  ## Demo
  To see our Demo Click Here https://2h.ae/ygrj 
- <a href="https://2h.ae/ygrj" Click Here a>
+ <a href="https://2h.ae/ygrj">Click Here</a> [قم بزيارة GitHub](https://github.com)
+ [Click Here](https://2h.ae/ygrj)
+ 
 
  # presentation
  To see our presentation Click Here https://2h.ae/MtKM
