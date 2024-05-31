@@ -119,15 +119,14 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
   significant implications for various applications, including language learning tools, accessibility features, 
   and communication aids. However, there are areas for future work:  
              
-	Dataset Expansion: Increasing the dataset size and diversity to include more variations in hand shapes, 
-	sizes, backgrounds, and lighting conditions. This will help improve the model's ability to generalize across different environments.                                                                                                                                                                           
-	Model Improvement: Exploring advanced architectures like transformers, which have shown promise in capturing complex dependencies, and integrating them with CNNs and RNNs to enhance recognition capabilities.
-	Real-World Applications: Implementing the model in real-world applications, such as mobile apps and wearable devices, to evaluate its performance in practical scenarios. Developing user-friendly interfaces to facilitate real-time learning and communication.
-	User Feedback Integration: Incorporating user feedback to continuously improve the model. Developing interfaces where users can correct recognition errors will help refine the model over time.
-	Multilingual Support: Expanding the system to support multiple sign languages, allowing users from different linguistic backgrounds to benefit from the technology.
+-	Dataset Expansion: Increasing the dataset size and diversity to include more variations in hand shapes, 
+-	sizes, backgrounds, and lighting conditions. This will help improve the model's ability to generalize across different environments.                                                                                                                                                                           
+-	Model Improvement: Exploring advanced architectures like transformers, which have shown promise in capturing complex dependencies, and integrating them with CNNs and RNNs to enhance recognition capabilities.
+-	Real-World Applications: Implementing the model in real-world applications, such as mobile apps and wearable devices, to evaluate its performance in practical scenarios. Developing user-friendly interfaces to facilitate real-time learning and communication.
+-	User Feedback Integration: Incorporating user feedback to continuously improve the model. Developing interfaces where users can correct recognition errors will help refine the model over time.
+-	Multilingual Support: Expanding the system to support multiple sign languages, allowing users from different linguistic backgrounds to benefit from the technology.
 
- o	Additional Features: Enhancing the model to recognize not only letters but also words and phrases, and   
- o	incorporating gesture recognition for a more comprehensive sign language learning experience.
+
   # Tools We Use
    ## Libraries 
   Numpy
