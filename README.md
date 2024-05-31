@@ -148,10 +148,16 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
   Streamlit
    
   Colab
+
+
+ ## To Run Our VsCode Notebook
+ First, open the Hand Talk.ipynb file.
+ Then, click on "Open in VsCode"
+ ## To run our demo 
+       streamlit run app.py
    
  ## Demo
  To see our Demo [Click Here](https://2h.ae/ygrj)
- 
 
  # presentation
  [View our Presentation](https://2h.ae/MtKM)
