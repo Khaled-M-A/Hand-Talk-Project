@@ -57,9 +57,11 @@ The methodology for this project involves several key steps to develop
 
    ## Data Preprocessing
 
-•	Normalization: Converting pixel values to a common scale, typically 0 to 1, to facilitate faster and more efficient training.
-•	Resizing: Standardizing image dimensions to a fixed size to ensure consistency across the dataset.
-•	Augmentation: Applying transformations such as rotations, flips, and shifts to artificially increase the size of the training set and improve model robustness.
+ •	Normalization: Converting pixel values to a common scale, typically 0 to 1, to facilitate faster and more efficient training.
+
+ •	Resizing: Standardizing image dimensions to a fixed size to ensure consistency across the dataset.
+ 
+ •	Augmentation: Applying transformations such as rotations, flips, and shifts to artificially increase the size of the training set and improve model robustness.
 
   ## Model Selection
  
