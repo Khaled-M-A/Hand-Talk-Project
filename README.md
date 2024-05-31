@@ -104,11 +104,6 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
 
 ![WhatsApp Image 2024-05-31 at 7 42 55 AM (1)](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/21a242cb-dcc1-475f-9e14-8ae261bcba9a)
 
- ## Training
-
-•	Loss Function: Using categorical cross-entropy for image classification and sequence prediction.
-•	Optimizer: Employing an optimizer like Adam or SGD (Stochastic Gradient Descent) to update the model weights based on the loss.
-•	Regularization: Implementing techniques such as dropout and L2 regularization to prevent overfitting and improve generalization.
 
 
  # Discussion and Results 
@@ -157,6 +152,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
    
  ## Demo
  To see our Demo Click Here https://2h.ae/ygrj 
+ <a href=“https://2h.ae/ygrj”> Click here </a>
 
  # presentation
  To see our presentation Click Here https://2h.ae/MtKM
