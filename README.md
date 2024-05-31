@@ -95,6 +95,12 @@ Advantages of Random Forest:
 After a thorough evaluation, the Random Forest model was selected for its superior 
 Performance, robustness, and efficiency in recognizing and translating hand gestures into corresponding letters.
 
+
+
+![WhatsApp Image 2024-05-31 at 7 42 55 AM](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/11e73acd-65e1-4c94-9c7f-c804e6e79b0e)
+
+ 
+
  ## Training
 
 •	Loss Function: Using categorical cross-entropy for image classification and sequence prediction.
