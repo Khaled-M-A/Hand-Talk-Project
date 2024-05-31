@@ -132,7 +132,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
  # Demo
  To see our Demo Click Here https://2h.ae/ygrj
 
- # 
+ # presentation
  To see our presentation Click Here https://2h.ae/MtKM
 
 
