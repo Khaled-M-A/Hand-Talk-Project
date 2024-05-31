@@ -151,8 +151,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
   Colab
    
  ## Demo
- To see our Demo Click Here https://2h.ae/ygrj 
- [Click Here](https://2h.ae/ygrj)
+ To see our Demo [Click Here](https://2h.ae/ygrj)
  
 
  # presentation
