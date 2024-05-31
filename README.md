@@ -99,10 +99,10 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
 
 ![WhatsApp Image 2024-05-31 at 7 42 55 AM](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/11e73acd-65e1-4c94-9c7f-c804e6e79b0e)
 
-
  
 ![WhatsApp Image 2024-05-31 at 7 42 54 AM](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/1475c2bb-4dd1-4485-9fb3-abefd03bb840)
-![WhatsApp Image 2024-05-31 at 7 42 55 AM](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/364401b2-7c81-4a3e-928c-772457db53b6)
+
+![WhatsApp Image 2024-05-31 at 7 42 55 AM (1)](https://github.com/Khaled-M-A/Hand-Talk-Project/assets/169338332/21a242cb-dcc1-475f-9e14-8ae261bcba9a)
 
  ## Training
 
