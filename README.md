@@ -17,7 +17,7 @@
 
 This paper provides a detailed examination of a system created to help individuals learn sign language using alphabet letters via a real-time camera feed. The goal of the project is to create a machine learning model that can accurately identify and understand sign language letters in real-time, improving accessibility and communication for deaf and hard-of-hearing individuals. This document covers the project's introduction, data description and structure, methodology, discussion, and results, and concludes with future work suggestions.
 
-# <a name="Introduction"></a> Introduction
+# Introduction
 
 "Hand Talk " is a vital mode of communication for the deaf and hard-of-hearing community. Learning sign language, particularly its letters, can be challenging for many people. The development of a real-time sign language recognition system using live camera feeds can significantly aid in this learning process. This project aims to create a machine learning model capable of recognizing sign language letters through a live camera.
 
@@ -26,7 +26,7 @@ The motivation behind this project is to bridge the communication gap between th
 Importance of Hand Talk in Vision 2030
 Implementing a system that recognizes sign language in real-time through live camera feeds aligns with the goals of Vision 2030, a strategic framework aimed at reducing Saudi Arabia's dependence on oil, diversifying its economy, and developing public service sectors such as health, education, infrastructure, recreation, and tourism.
 
-# Data Description and Structure 
+# Data Description And Structure
 
 The dataset for this project includes pictures of sign language letters, captured to ensure a variety of hand shapes, sizes, and backgrounds. The dataset is organized into the following elements:
 
@@ -50,7 +50,7 @@ Given the diversity in our dataset, including different hand shapes, sizes, and 
 Initial Training:
 The initial training with a random model involved exposing the model to a broad array of samples without any pre-existing biases or learned patterns. This exposure helped the model start to identify and learn fundamental patterns and features necessary for distinguishing between the different letters under various conditions.
 
-# Methodology 
+# Methodology
 
 The methodology for this project involves several key steps to develop                        
       a high-performing model:
@@ -116,7 +116,7 @@ Performance, robustness, and efficiency in recognizing and translating hand gest
 
 •	Model Selection Justification: The choice of the Random Forest model was validated by its ability to handle the complexity of image classification tasks. Its ensemble approach, leveraging multiple decision trees, helped mitigate the risk of overfitting and improved prediction reliability.
 
-## Conclusion and Future Work 
+## Conclusion and Future Work
 
  "HAND TALK" Learning Using Letters via a LIVE Camera project successfully developed a robust
   model for real-time sign language recognition, achieving high accuracy and efficiency. The project has                        
